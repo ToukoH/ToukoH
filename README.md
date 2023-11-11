@@ -1,4 +1,4 @@
-### About me
+### About me:
 I'm a math student with a great interest towards software and data science. During my leisure time I like to play the guitar and engage in all sorts of other musical activities.
 
 ### What I'm Working On Now:
